@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thomasvdluit-ai.github.io/guide-logistique-bourgogne/sitemap.xml
